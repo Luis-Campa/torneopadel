@@ -21,7 +21,7 @@ public class Jugador {
     private String cuidad;
     private int edad;
 
-    public Jugador(String nombre, String telefono, String correo, int nivel, String cuidad, int edad) {
+    public Jugador(String nombre, String telefono, String correo, int nivel, int edad) {
         this.nombre = nombre;
         this.telefono = telefono;
         this.correo = correo;
